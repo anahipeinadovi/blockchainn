@@ -25,7 +25,7 @@ Para poder ejecutar el programa se deberá asegurar tener instalado node.js y el
 
 3.Eecutar la siguiente linea de comando  en la terminal para correr el programa 
 
-node main.js
+    node main.js
 
 
 
